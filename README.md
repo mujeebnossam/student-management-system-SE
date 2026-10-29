@@ -19,4 +19,4 @@ commits, pull requests, code reviews, and merge conflict resolution.
 3. Create pull requests for code review.
 4. Merge approved changes into the main branch.
 5. Resolve merge conflicts when they occur.
-6. Project Status: Main Version
+Project Status: Feature Version
